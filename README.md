@@ -9,4 +9,5 @@ The collected data then goes to the pre-processing part and goes through certain
 
 If you want to do all of these at once, you need to run the .py codes named pipeline in the required file. On average, it is possible to switch to the prediction part in 10 minutes. You can check the details of the headset we use in the project report. Changes to the code may be required in case of device incompatibilities or differences.
 
-![alt text]([https://www.researchgate.net/publication/334182866/figure/fig2/AS:776399644278792@1562119508983/OpenBCI-wireless-3D-printed-headset-with-the-Cyton-board-and-the-Daisy-module-attached.png](http://www.alpmed.com.tr/wp-content/uploads/2020/09/UCM4-Product-2_1024x1024-e1601370441949.jpg))
+
+![Alt text](http://www.alpmed.com.tr/wp-content/uploads/2020/09/UCM4-Product-2_1024x1024-e1601370441949.jpg?raw=true "Title")
